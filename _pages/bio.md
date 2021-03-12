@@ -11,7 +11,7 @@ Thies is a board member for the American Real Estate And Urban Economics (AREUA)
 
 In response to the Covid lockdown, Thies co-organised a virtual research seminar series [Seminar.RE](https://www.seminar.re).
 
-Thies is interested in supervising new PhD students in Real Estate Finance, preferably with a focus on new (somewhat "big") data or, alternatively, property markets in the very long run. However, candidates might have a look at this debate first ...
+Thies is interested in supervising new PhD students in Real Estate Finance, preferably with a focus on new (somewhat "big") data or, alternatively, property markets in the very long run. However, candidates might have a look at [this debate](https://twitter.com/random_walker/status/1348664433216802817) first ...
 
 Dr Lindenthal has served as an expert witness for internet domain names at US courts.
 
