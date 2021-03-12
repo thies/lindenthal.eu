@@ -60,9 +60,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Research and teaching, mostly real estate finance, a bit of Big Data, ML, domain names, and a careful dose of proptech. University of Cambridge, Department of Land Economy."
   links:
-    - label: "Publications"
+    - label: "Departmental Website"
       icon: "fas fa-fw fa-link"
-      url: "/publications/"
+      url: "https://www.landecon.cam.ac.uk/directory/dr-thies-lindenthal"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
