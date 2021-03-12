@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Research and teaching, mostly real estate finance, a bit of Big Data, ML, domain names, and a careful dose of proptech. University of Cambridge, Department of Land Economy. 
 twitter_username: thieslindenthal
 github_username: thies
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark 
 search: true
 
 # Build settings
@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Thies Lindenthal"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Research and teaching, mostly real estate finance, a bit of Big Data, ML, domain names, and a careful dose of proptech. University of Cambridge, Department of Land Economy."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -69,9 +69,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 footer:
   links:
