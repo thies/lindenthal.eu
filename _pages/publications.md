@@ -9,7 +9,7 @@ title: "Publications"
 	<p>P. Eichholtz, M. Korevaar, T. Lindenthal and R. Tallec (2021). <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3549278">"A Realistic Return to Residential Real Estate", </a>Review of Financial Studies.</p>
 	</li>
 	<li>
-	<p>Clapp, J., Cohen, J. and T. Lindenthal (forthcoming). <a href="https://lindenthal.eu/research/machine-learning-vintages-property-values.pdf">"Are Estimates of Rapid Growth in Urban Land Values an Artifact of the Land Residual Model?"</a>. <em>Journal of Real Estate Finance and Economics</em>.</p>
+	<p>Clapp, J., Cohen, J. and T. Lindenthal (forthcoming). <a href="/assets/papers/Clapp-Cohen-Lindenthal-JREFE-2021.pdf">"Are Estimates of Rapid Growth in Urban Land Values an Artifact of the Land Residual Model?"</a>. <em>Journal of Real Estate Finance and Economics</em>.</p>
 	</li>
 	<li>
 	<p>Lindenthal, T. and E. Johnson (forthcoming). <span class="pl-s"><a class="external-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3618293" target="_self"><span>“</span>Machine Learning, Architectural Styles and Property Values”.</a></span> <em>Journal of Real Estate Finance and Economics</em>.</p>
@@ -66,7 +66,3 @@ title: "Publications"
 	</li>
 	<li>Eichholtz, P. and T. Lindenthal. (2009) <a href="http://esbonline.sdu.nl/esb/esb/archief/abbo1/toonartikel1.jsp?di=474631">“Demografische krimp en woningprijzen”. </a><em>Economisch Statistische Berichten</em>, 94(4558). p249-251</li>
 </ul>
-
-
-
-
