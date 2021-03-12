@@ -69,24 +69,4 @@ title: "Publications"
 
 
 
-### Working Paper
-
-<ul>
-	<li>
-	<p>Wan, W. and T. Lindenthal. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3758451">"Towards Accountability in Machine Learning Applications: A System-testing Approach"</a></p>
-	</li>
-	<li>
-	<p>T. Lindenthal and C. Schmidt. "The Odd One Out: Asset Uniqueness and Price Precision"</p>
-	</li>
-	<li>
-	<p>Ooi, J. and T. Lindenthal. <span>“</span>Local market power in residential property markets”</p>
-	</li>
-	<li>
-	<p>Lindenthal T. and P. Eichholtz “That’s What We Paid for It: The Spell of the Home Purchase Price through the Centuries”</p>
-	</li>
-	<li>
-	<p>Eichholtz, P.; Lindenthal T. and M. Korevaar <a class="external-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3418495" target="_self" title=""><span class="external-link">“500 Years of Housing Rents, Quality and Affordability”</span></a></p>
-	</li>
-</ul>
-
 
