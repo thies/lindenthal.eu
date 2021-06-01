@@ -5,7 +5,7 @@ title: "Publications"
 
 ### Key Publications
 
-* P. Eichholtz, M. Korevaar, T. Lindenthal and R. Tallec (2021). <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3549278">"The Total Return and Risk to Residential Real Estate", </a>Review of Financial Studies.
+* P. Eichholtz, M. Korevaar, T. Lindenthal and R. Tallec (2021). <a href="https://doi.org/10.1093/rfs/hhab042">"The Total Return to Residential Real Estate", </a>Review of Financial Studies.
 
 * Clapp, J., Cohen, J. and T. Lindenthal (forthcoming). <a href="/assets/papers/Clapp-Cohen-Lindenthal-JREFE-2021.pdf">"Are Estimates of Rapid Growth in Urban Land Values an Artifact of the Land Residual Model?"</a>. <em>Journal of Real Estate Finance and Economics</em>.
 
