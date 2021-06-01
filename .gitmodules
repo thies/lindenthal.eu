@@ -1,0 +1,6 @@
+[submodule "talks/talk-real-estate-long-term-performance"]
+	path = talks/talk-real-estate-long-term-performance
+	url = https://github.com/thies/talk-real-estate-long-term-performance.git
+[submodule "talks/reveal.js"]
+	path = talks/reveal.js
+	url = https://github.com/hakimel/reveal.js.git
