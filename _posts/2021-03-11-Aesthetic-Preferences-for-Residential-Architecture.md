@@ -24,4 +24,4 @@ nature of their classifications.
 This paper first collects binary classifications of house pictures from a large
 group of participants and then trains personalized ML classifiers for each participant. Predictions from these automated yet personal classification machines shed light on biases and inconsistencies in the participants’ assessment of residential real estate’s visual appeal.
 
-Full paper: [Link](/assets/paper/Lindenthal, Schmidt and Wan - Aesthetic Preferences for Residential Architecture.pdf)
+Full paper: [Link](/assets/papers/Lindenthal, Schmidt and Wan - Aesthetic Preferences for Residential Architecture.pdf)

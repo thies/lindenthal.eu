@@ -17,4 +17,4 @@ A rapidly expanding universe of technology-focused startups is trying to change 
 Training ML models is a software development process at heart. We suggest following the
 dedicated software testing framework and verifying that the ML model is performing as intended. Illustratively, we augment two image classifiers with a system testing procedure based on local interpretable model-agnostic explanation (LIME) techniques. Analyzing the classifications sheds light on some of the factors that determine the behavior of the systems. We show that cross-validation is simply not good enough when operating in regulated environments.
 
-Full paper: [Link](/assets/paper/Wan and Lindenthal - System Testing.pdf)
+Full paper: [Link](/assets/papers/Wan and Lindenthal - System Testing.pdf)
