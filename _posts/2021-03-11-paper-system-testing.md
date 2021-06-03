@@ -2,7 +2,7 @@
 title: "Towards Accountability in Machine Learning
 Applications: A System-testing Approach"
 date: 2021-03-10
-excerpt: "."
+excerpt: "How do ML-models arrive at their predictions? Do they do what we hope they do &mdash; or are corners cut?"
 categories:
   - working papers
 tags:

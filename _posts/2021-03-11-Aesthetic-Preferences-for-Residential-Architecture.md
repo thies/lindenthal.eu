@@ -2,7 +2,8 @@
 title: "Aesthetic Preferences for Residential Architecture:
 Finding Ground Truth with Machine Learning Approaches"
 date: 2021-03-10
-excerpt: "."
+excerpt: "This paper first collects binary classifications of house pictures from a large
+group of participants and then trains personalized ML classifiers for each participant."
 categories:
   - working papers
 tags:
