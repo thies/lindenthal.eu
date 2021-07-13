@@ -17,8 +17,11 @@ Piet Eichholtz, Matthijs Korevaar, Ronan Talled and I estimate total returns to 
 
 Full paper: [Link](https://doi.org/10.1093/rfs/hhab042)
 
+
+## Highlights: Total returns in Paris and Amsterdam
+
 <img src="/assets/images/total_returns.png">
 
-*Notes:* These graphs depict inflation-adjusted cumulative total returns and capital gains for Paris and Amsterdam. Real capital gains are dwarfed by total returns, but the price volatility is very visible, especially for Paris after 1914.
+ These graphs depict inflation-adjusted cumulative total returns and capital gains for Paris and Amsterdam. Real capital gains are dwarfed by total returns, but the price volatility is very visible, especially for Paris after 1914.
 
 World War I scarred the real estate investment performance in Paris but did not affect Amsterdam much. In Amsterdam, real total returns steadily accumulated up to the 1930s, then went into a 20-year hiatus before picking up pace again in the 1950s.

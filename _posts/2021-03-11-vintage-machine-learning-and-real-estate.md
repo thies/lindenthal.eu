@@ -1,5 +1,5 @@
 ---
-title: "New Publication: Machine Learning, Architectural Styles and Property Values"
+title: "Machine Learning, Architectural Styles and Property Values"
 date: 2021-03-11
 excerpt: "New research accepted for publication at the Journal of Real Estate Finance and Economics: This paper couples a traditional hedonic model with architectural style classifications from human experts and machine learning (ML) enabled classifiers to estimate sales price premia over architectural styles, both at the building and the neighborhood-level."
 categories:
