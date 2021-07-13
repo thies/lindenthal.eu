@@ -86,6 +86,7 @@ defaults:
       type: posts
     values:
       layout: single
+      entries_layout: grid
       author_profile: true
       read_time: true
       comments: true
