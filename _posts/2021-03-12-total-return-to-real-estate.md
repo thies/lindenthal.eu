@@ -1,6 +1,8 @@
 ---
 title: "New Publication: The Total Return To Real Estate"
 date: 2021-03-12
+header:
+  teaser: "/assets/total_returns.png"
 excerpt: "New research accepted for publication at the Review of Financial Studies (RFS) suggests that returns to real estate are solid but not exceptional: No sign of a housing risk premium puzzle."
 categories:
   - publications
