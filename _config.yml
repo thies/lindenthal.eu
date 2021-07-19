@@ -85,7 +85,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: collection
+      layout: single
       entries_layout: grid
       author_profile: true
       read_time: true
