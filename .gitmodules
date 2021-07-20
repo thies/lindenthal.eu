@@ -7,6 +7,3 @@
 [submodule "talks/talk-applied-ml-in-real-estate-research"]
 	path = talks/talk-applied-ml-in-real-estate-research
 	url = https://github.com/thies/talk-applied-ml-in-real-estate-research.git
-[submodule "talks/talk-asres-areuea-panel-2021"]
-	path = talks/talk-asres-areuea-panel-2021
-	url = git@github.com:thies/talk-asres-areuea-panel-2021.git
