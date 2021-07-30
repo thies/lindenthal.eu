@@ -7,6 +7,8 @@ categories:
 tags:
   - research
   - publications
+header:
+  teaser: "/assets/images/teaser/JREFE_Lindenthal_Johnson.png"
 ---
 
 New research accepted for publication at the _Journal of Real Estate Finance and Economics_ (joint work with Erik B. Johnson).
