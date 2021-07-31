@@ -1,5 +1,5 @@
 ---
-title: Immobilienanlagen: Angebliches Renditewunder entzaubert / Le « miracle » de l’investissement immobilier démystifié
+title: "Immobilienanlagen: Angebliches Renditewunder entzaubert / Le « miracle » de l’investissement immobilier démystifié"
 date: 2021-07-22
 header:
 excerpt: "Summary of our Total Return paper in German and French."
