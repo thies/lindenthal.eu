@@ -13,3 +13,6 @@
 [submodule "talks/talk-rem1-2020-feedback"]
 	path = talks/talk-rem1-2020-feedback
 	url = https://github.com/thies/talk-rem1-2020-feedback.git
+[submodule "talks/talk-real-estate-and-technology"]
+	path = talks/talk-real-estate-and-technology
+	url = https://github.com/thies/talk-real-estate-and-technology.git
