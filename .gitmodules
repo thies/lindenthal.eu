@@ -16,3 +16,6 @@
 [submodule "talks/talk-real-estate-and-technology"]
 	path = talks/talk-real-estate-and-technology
 	url = https://github.com/thies/talk-real-estate-and-technology.git
+[submodule "talks/talk-lv-backcasting"]
+	path = talks/talk-lv-backcasting
+	url = https://github.com/thies/talk-lv-backcasting.git
