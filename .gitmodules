@@ -19,3 +19,6 @@
 [submodule "talks/talk-lv-backcasting"]
 	path = talks/talk-lv-backcasting
 	url = https://github.com/thies/talk-lv-backcasting.git
+[submodule "talks/talk-re01-l5-portfolios"]
+	path = talks/talk-re01-l5-portfolios
+	url = https://github.com/thies/talk-re01-l5-portfolios.git
