@@ -1,5 +1,5 @@
 ---
-title: "Spatial ML?"
+title: "Spatial ML: Estimating Land Values in Phoenix (AZ)?"
 date: 2022-01-07
 header:
   teaser: "/assets/images/lv_loop.gif"
