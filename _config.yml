@@ -63,6 +63,10 @@ author:
     - label: "Departmental Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.landecon.cam.ac.uk/directory/dr-thies-lindenthal"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-link"
+      url: "https://scholar.google.co.uk/citations?hl=en&user=w4l5bnMAAAAJ"
+
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/thieslindenthal"
