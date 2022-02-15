@@ -7,9 +7,9 @@ title: "Publications"
 
 * P. Eichholtz, M. Korevaar, T. Lindenthal and R. Tallec (2021). <a href="https://doi.org/10.1093/rfs/hhab042">"The Total Return to Residential Real Estate", </a>Review of Financial Studies.
 
-* Clapp, J., Cohen, J. and T. Lindenthal (2021). <a href="/assets/papers/Clapp-Cohen-Lindenthal-JREFE-2021.pdf">"Are Estimates of Rapid Growth in Urban Land Values an Artifact of the Land Residual Model?"</a>. <em>Journal of Real Estate Finance and Economics</em>.
+* Clapp, J., Cohen, J. and T. Lindenthal (2021). <a href="https://link.springer.com/article/10.1007/s11146-021-09834-4">"Are Estimates of Rapid Growth in Urban Land Values an Artifact of the Land Residual Model?"</a>. <em>Journal of Real Estate Finance and Economics</em>.
 
-* Lindenthal, T. and E. Johnson (2021). <span class="pl-s"><a class="external-link" href="/assets/papers/Lindenthal and Johnson - 2021 - Machine Learning, Architectural Styles and Property Values.pdf" target="_self"><span>“</span>Machine Learning, Architectural Styles and Property Values”.</a></span> <em>Journal of Real Estate Finance and Economics</em>.
+* Lindenthal, T. and E. Johnson (2021). <span class="pl-s"><a class="external-link" href="https://link.springer.com/article/10.1007/s11146-021-09845-1" target="_self"><span>“</span>Machine Learning, Architectural Styles and Property Values”.</a></span> <em>Journal of Real Estate Finance and Economics</em>.
 
 * Lindenthal, T. (2020) <a class="external-link" href="http://onlinelibrary.wiley.com/doi/10.1111/1540-6229.12204/abstract" target="_self" title="">“Beauty in the Eye of the Home-Owner: Aesthetic Zoning and Residential Property Values”</a>. <em>Real Estate Economics, 48(2).</em>
 
