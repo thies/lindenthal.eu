@@ -19,3 +19,6 @@
 [submodule "talks/talk-lv-backcasting"]
 	path = talks/talk-lv-backcasting
 	url = https://github.com/thies/talk-lv-backcasting.git
+[submodule "talks/talk-towards-realistic-return-estimate"]
+	path = talks/talk-towards-realistic-return-estimate
+	url = https://github.com/thies/talk-towards-realistic-return-estimate.git
