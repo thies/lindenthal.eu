@@ -22,3 +22,6 @@
 [submodule "talks/talk-towards-realistic-return-estimate"]
 	path = talks/talk-towards-realistic-return-estimate
 	url = https://github.com/thies/talk-towards-realistic-return-estimate.git
+[submodule "talks/talk-curem"]
+	path = talks/talk-curem
+	url = https://github.com/thies/talk-curem.git
