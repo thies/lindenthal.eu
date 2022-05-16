@@ -25,3 +25,6 @@
 [submodule "talks/talk-curem"]
 	path = talks/talk-curem
 	url = https://github.com/thies/talk-curem.git
+[submodule "talks/talk-cerf-cavalcade"]
+	path = talks/talk-cerf-cavalcade
+	url = https://github.com/thies/talk-cerf-cavalcade.git
