@@ -11,7 +11,7 @@ tags:
   - ML
 ---
 
-New work with John Clapp at Journal of Housing Economics (https://doi.org/10.1016/j.jhe.2022.101872):
+New work with John Clapp at Journal of Housing Economics (<a href="https://doi.org/10.1016/j.jhe.2022.101872">https://doi.org/10.1016/j.jhe.2022.101872</a>):
 
 This paper develops a new approach to estimate the value of urban land. We extend AMM theory by adding the assumption of partial irreversibility. Bundled goods assumptions imply that land value with a structure can evolve differently than as-if vacant value, even in the first decades of structure life. We develop a hybrid model that nests bundled goods with land residual methods and we develop a new test of predictive accuracy. Granular house price indices produced by machine learning are used to estimate hybrid economic structure and land values.
 
