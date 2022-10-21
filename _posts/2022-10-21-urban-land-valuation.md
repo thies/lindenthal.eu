@@ -1,8 +1,8 @@
 ---
 title: "New Paper: Urban land valuation with bundled good and land residual assumptions"
-date: 2022-01-07
+date: 2022-10-21
 header:
-  teaser: "/assets/images/lv_loop.gif"
+  teaser: ""
 excerpt: "Paper out: Indirect test of land residual assumptions"
 categories:
   - publications
