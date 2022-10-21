@@ -5,6 +5,9 @@ title: "Publications"
 
 ### Key Publications
 
+
+* Clapp, J. and T. Lindenthal (2021). <a href="https://doi.org/10.1016/j.jhe.2022.101872">""Urban land valuation with bundled good and land residual assumptions</a>. <em>Journal of Housing Economics</em>.
+
 * P. Eichholtz, M. Korevaar, T. Lindenthal and R. Tallec (2021). <a href="https://doi.org/10.1093/rfs/hhab042">"The Total Return to Residential Real Estate", </a>Review of Financial Studies.
 
 * Clapp, J., Cohen, J. and T. Lindenthal (2021). <a href="https://link.springer.com/article/10.1007/s11146-021-09834-4">"Are Estimates of Rapid Growth in Urban Land Values an Artifact of the Land Residual Model?"</a>. <em>Journal of Real Estate Finance and Economics</em>.
