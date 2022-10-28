@@ -1,7 +1,6 @@
 ---
 title: "Sign up for Newsletter"
 date: 2022-10-28
-excerpt: "Stay in touch! Sign up for an old-fashioned newsletter."
 ---
 
 # Staying in touch: A sporadic email with updates
