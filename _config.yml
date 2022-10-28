@@ -67,18 +67,15 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.co.uk/citations?hl=en&user=w4l5bnMAAAAJ"
 
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/thieslindenthal"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-link"
+      url: "https://mastodon.social/@thieslindenthal"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/thies"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
