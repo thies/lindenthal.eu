@@ -2,7 +2,7 @@
 title: "Sign up for Newsletter"
 date: 2022-10-28
 header:
-excerpt: "Stay in touch! Sign up for an oldfashioned newsletter."
+excerpt: "Stay in touch! Sign up for an old-fashioned newsletter."
 categories:
 tags:
 ---
@@ -10,7 +10,7 @@ tags:
 # Staying in touch: A sporadic email with updates
 
 
-If you would like to know about new research and other updates just add your email to the list below and you will receive my (sporadic) newsletter.
+If you would like to stay in the know about new research and other exciting updates, just add your email to the list below and you will receive my (sporadic) newsletter.
 
 
 <!-- Begin Mailchimp Signup Form -->
