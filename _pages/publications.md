@@ -5,7 +5,7 @@ title: "Publications"
 
 ### Key Publications
 
-* Wan, W. and T. Lindenthal (2022). <a href="http://dx.doi.org/10.2139/ssrn.3758451">"Testing Machine Learning Systems in Real Estate"</a>. <em>Real Estate Economics</em>.
+* Wan, W. and T. Lindenthal (2022). <a href='http://dx.doi.org/10.2139/ssrn.3758451'>"Testing Machine Learning Systems in Real Estate"</a>. <em>Real Estate Economics</em>.
 
 * Clapp, J. and T. Lindenthal (2022). <a href="https://doi.org/10.1016/j.jhe.2022.101872">"Urban land valuation with bundled good and land residual assumptions"</a>. <em>Journal of Housing Economics</em>.
 
