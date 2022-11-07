@@ -67,7 +67,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.co.uk/citations?hl=en&user=w4l5bnMAAAAJ"
     - label: "Mastodon"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://mastodon.social/@thieslindenthal"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
