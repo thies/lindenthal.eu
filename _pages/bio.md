@@ -18,5 +18,6 @@ Thies is interested in supervising new PhD students in Real Estate Finance, pref
 
 Dr Lindenthal has served as an expert witness for internet domain names at US courts.
 
+<a href="/assets/images/Thies-Lindenthal-1.jpg"><img src="/assets/images/Thies-Lindenthal-1.jpg" width="30%"></a> <a href="/assets/images/Thies-Lindenthal-2.jpg"><img src="/assets/images/Thies-Lindenthal-2.jpg" width="30%"></a>
 
 
