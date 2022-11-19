@@ -54,6 +54,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll/mastodon_webfinger
 
 author:
   name   : "Thies Lindenthal"
@@ -72,6 +73,10 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/thies"
+
+mastodon:
+  username: thieslindenthal
+  instance: mastodon.social
 
 footer:
   links:
@@ -107,3 +112,5 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+keep_files: [".well-known/webfinger"]
