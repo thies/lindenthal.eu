@@ -54,7 +54,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll/mastodon_webfinger
 
 author:
   name   : "Thies Lindenthal"
