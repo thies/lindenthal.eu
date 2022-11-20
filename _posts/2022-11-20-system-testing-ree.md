@@ -1,7 +1,7 @@
 ---
-title: "Testing machine learning systems in real estate"
+title: "Paper Alert: Testing machine learning systems in real estate"
 date: 2022-11-20
-excerpt: "How do ML-models arrive at their predictions? Do they do what we hope they do&mdash;or are corners cut?"
+excerpt: "How do ML-models arrive at their predictions? Do they do what we hope they do&mdash;or are corners cut?. New paper out at <emph>Real Estate Economics</emph>"
 categories:
   - publications
 tags:
