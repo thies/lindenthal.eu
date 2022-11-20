@@ -3,7 +3,7 @@ title: "New Paper: Urban land valuation with bundled good and land residual assu
 date: 2022-10-21
 header:
   teaser: "/assets/images/teaser/bundled-approach.jpg"
-excerpt: "Paper out: This paper develops a new approach to estimate the value of urban land and indirectly tests land residual assumptions."
+excerpt: "Paper out: This paper develops a new approach to estimate the value of urban land and indirectly tests land residual assumptions. Bonus: Value surfaces estimated with a spatial ANN."
 categories:
   - publications
 tags:
