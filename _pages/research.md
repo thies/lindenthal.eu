@@ -11,3 +11,17 @@ title: "Research"
 	- This paper provides the first long-term overview of developments in urban housing affordability, quality and inequality, focusing on seven European cities from 1500 to the present. Based on the rental indices developed by EKL (2022), we create new indices of housing quality and inequality, and relate these to changes in wages and population. Before 1900, markets were unregulated and rent prices and wages rose in tandem when cities grew while housing quality and inequality increased. We document a housing affordability revolution between the 1910s and the 1970s when housing affordability and quality improved dramatically while housing consumption inequality declined. We show that part of the short-term affordability improvement in this period was attributable to rent controls and housing supply expansions. Most of the surge in housing expenditure that did occur over time is due to increasing housing quality rather than rising rent.
 * T. Lindenthal and C. Schmidt. **&ldquo;The Odd One Out: Asset Uniqueness and Price Precision&rdquo;**
 * Lindenthal T. and P. Eichholtz. **“That’s What We Paid for It: The Spell of the Home Purchase Price through the Centuries”**
+
+
+
+
+
+# Older prjects
+
+## Valuable Words: The Price Dynamics of Internet Domain Names
+
+This article estimates the first constant quality price index for Internet domain names. The suggested index provides a benchmark for domain name traders and investors looking for information on price trends, historical returns, and the fundamental risk of Internet domain names. The index increases transparency in the market for this newly emerged asset class. A cointegration analysis shows that domain registrations and resale prices form a long-run equilibrium and indicates supply constraints in domain space. This study explores a large data set of domain sales spanning the years 2006 to 2013. Differences in the quality of individual domain names are controlled for in hedonic repeat sales regressions.
+
+How to cite: *Lindenthal, T. (2014), Valuable Words: The Price Dynamics of Internet Domain Names. J Assn Inf Sci Tec, 65: 869-881. https://doi.org/10.1002/asi.23012*
+
+**<a href='/assets/papers/Lindenthal-Valuable-Words.pdf'>Full Paper (PDF)</a>**
