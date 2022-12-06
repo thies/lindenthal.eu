@@ -1,23 +1,18 @@
 ---
-title: "Valuable Words: The Price Dynamics of Internet Domain Names"
-date: 2014-10-21
+title: "New Paper: Urban land valuation with bundled good and land residual assumptions"
+date: 2022-10-21
 header:
-  teaser: "/assets/images/teaser/idnx.png"
-excerpt: "This article estimates the first constant quality price index for Internet domain names. The suggested index provides a benchmark for domain name traders and investors looking for information on price trends, historical returns, and the fundamental risk of Internet domain names."
+  teaser: "/assets/images/teaser/bundled-approach.jpg"
+excerpt: "Paper out: This paper develops a new approach to estimate the value of urban land and indirectly tests land residual assumptions. Bonus: Value surfaces estimated with a spatial ANN."
 categories:
   - publications
 tags:
   - research
-  - Domain Names
+  - ML
 ---
-# Valuable Words: The Price Dynamics of Internet Domain Names
 
-This article estimates the first constant quality price index for Internet domain names. The suggested index provides a benchmark for domain name traders and investors looking for information on price trends, historical returns, and the fundamental risk of Internet domain names. The index increases transparency in the market for this newly emerged asset class. A cointegration analysis shows that domain registrations and resale prices form a long-run equilibrium and indicates supply constraints in domain space. This study explores a large data set of domain sales spanning the years 2006 to 2013. Differences in the quality of individual domain names are controlled for in hedonic repeat sales regressions.
+New work with John Clapp at Journal of Housing Economics (<a href="https://doi.org/10.1016/j.jhe.2022.101872">https://doi.org/10.1016/j.jhe.2022.101872</a>):
 
-How to cite: *Lindenthal, T. (2014), Valuable Words: The Price Dynamics of Internet Domain Names. J Assn Inf Sci Tec, 65: 869-881. https://doi.org/10.1002/asi.23012*
+This paper develops a new approach to estimate the value of urban land. We extend AMM theory by adding the assumption of partial irreversibility. Bundled goods assumptions imply that land value with a structure can evolve differently than as-if vacant value, even in the first decades of structure life. We develop a hybrid model that nests bundled goods with land residual methods and we develop a new test of predictive accuracy. Granular house price indices produced by machine learning are used to estimate hybrid economic structure and land values.
 
-**<a href='/assets/papers/Lindenthal-Valuable-Words.pdf'>Full Paper (PDF)</a>**
-
-<img src='/assets/images/infographic-1.png'>
-
-<img src='/assets/images/infographic-2.png'>
+We fit hybrid models to Maricopa County assessor data on houses up to 25 years old during a bust and recovery period (2007–2018). Results support structure value that evolves at some fraction (<1.0) of property value: i.e., partial bundling. The hybrid model achieves substantially lower Coefficients of Dispersion (CODs) than the land residual method, and both methods easily beat standard AVMs that do not separate land and structure values.
