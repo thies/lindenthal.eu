@@ -10,7 +10,7 @@ tags:
   - "August Potuczek"
 ---
 
-My great-grandfather August Potuczek was an admirer of the etchings by <a href='https://www.biographien.ac.at/oebl/oebl_R/Rektorzik_Franz-X_1793_1851.xml'>Franz Xaver Rektorzik (1793–1853)</a>. In the 1920/30's, he made prints from Rektorzik's original plates. Some of these "new" prints I was able to find and buy in Brno. Today, they finally arrived in the mail. And now I am looking at the fine details, the branches, the leaves, and believe I can see why August Potuczek was fascinated by them.
+My great-grandfather August Potuczek was an admirer of the etchings by <a href='https://www.biographien.ac.at/oebl/oebl_R/Rektorzik_Franz-X_1793_1851.xml'>Franz Xaver Rektorzik (1793–1853)</a>. In the 1920/30's, he made prints from Rektorzik's original plates. Some of these "new" prints I was able to find and buy online. Today, they finally arrived in the mail. Now, I am looking at the fine details, the branches, the leaves, and believe I can see why August Potuczek was fascinated by them.
 
 See for yourselves (better quality scans to follow at some point).
 
