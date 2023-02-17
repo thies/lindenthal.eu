@@ -28,3 +28,6 @@
 [submodule "talks/talk-cerf-cavalcade"]
 	path = talks/talk-cerf-cavalcade
 	url = https://github.com/thies/talk-cerf-cavalcade.git
+[submodule "talks/talk-re01-l12-indirect-real-estate"]
+	path = talks/talk-re01-l12-indirect-real-estate
+	url = git@github.com:thies/talk-re01-l12-indirect-real-estate.git
