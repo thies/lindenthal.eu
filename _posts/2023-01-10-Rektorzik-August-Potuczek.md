@@ -25,7 +25,3 @@ See for yourselves (better quality scans to follow at some point).
 <img src="/assets/images/Rektorzik/PXL_20230110_181904814.jpg">
 
 
-
-
-
-
