@@ -11,4 +11,4 @@ categories:
  Personal news: I have been elected Grosvenor Professor of Real Estate Finance at the University of Cambridge, effective March 1. I am incredibly happy and grateful! 
  
  
-<img src='/assets/images/Thies-Lindenthal-2.jpg' />
+<img src='/assets/images/door.jpeg' />
