@@ -8,7 +8,6 @@ categories:
   - personal
 ---
 
- Personal news: I have been elected Grosvenor Professor of Real Estate Finance at the University of Cambridge, effective March 1. I am incredibly happy and grateful! 
- 
+ Personal news: I have been elected Grosvenor Professor of Real Estate Finance at the University of Cambridge, effective March 1. I am incredibly happy and grateful!
  
 <img src='/assets/images/door.jpeg' />
