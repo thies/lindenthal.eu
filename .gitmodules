@@ -34,3 +34,6 @@
 [submodule "talks/talk-re01-l13-reits-occupier"]
 	path = talks/talk-re01-l13-reits-occupier
 	url = https://github.com/thies/talk-re01-l13-reits-occupier.git
+[submodule "talks/talk-re01-l16-derivatives"]
+	path = talks/talk-re01-l16-derivatives
+	url = git@github.com:thies/talk-re01-l16-derivatives.git
