@@ -7,8 +7,11 @@ title: "Things I like"
 Tulipmania: Buying 100 bulbs for £6 off eBay was one of my best investments. Spring surprises.
 
 <img src="/assets/images/coffeeandveg/2023-tulips.jpg">
+
 <img src="/assets/images/coffeeandveg/2023-tulips2.jpg">
+
 <img src="/assets/images/coffeeandveg/2023-tulips3.jpg">
+
 <img src="/assets/images/coffeeandveg/2023-tulips4.jpg">
 
 
@@ -21,7 +24,6 @@ Another year, another set of tomatoes, chilis, cucumbers and courgettes.
 
 ## Not all was bad in 2020
 <img src="/assets/images/coffeeandveg/tomatoes.jpg">
-
 
 <img src="/assets/images/coffeeandveg/melon.jpg">
 
