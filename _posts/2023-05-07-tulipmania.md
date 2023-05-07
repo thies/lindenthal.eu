@@ -1,5 +1,5 @@
 ---
-title: "Tulipmania"
+title: "Tulip mania"
 date: 2023-05-07
 header:
   teaser: "/assets/images/coffeeandveg/2023-tulips.jpg"
