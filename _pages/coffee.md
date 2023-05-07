@@ -4,7 +4,7 @@ title: "Things I like"
 ---
 
 ## 2023
-Tulipmania: Buying 100 bulbs for £6 of eBay was one of my best investments. Spring surprises.
+Tulipmania: Buying 100 bulbs for £6 off eBay was one of my best investments. Spring surprises.
 
 <img src="/assets/images/coffeeandveg/2023-tulips.jpg">
 <img src="/assets/images/coffeeandveg/2023-tulips2.jpg">
