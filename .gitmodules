@@ -37,3 +37,6 @@
 [submodule "talks/talk-re01-l16-derivatives"]
 	path = talks/talk-re01-l16-derivatives
 	url = git@github.com:thies/talk-re01-l16-derivatives.git
+[submodule "talks/talk-areuea2023-discussion"]
+	path = talks/talk-areuea2023-discussion
+	url = git@github.com:thies/talk-areuea2023-discussion.git
