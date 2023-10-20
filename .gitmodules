@@ -43,3 +43,6 @@
 [submodule "talks/talk-real-estate-impact-on-society"]
 	path = talks/talk-real-estate-impact-on-society
 	url = git@github.com:thies/talk-real-estate-impact-on-society.git
+[submodule "talks/talk-symposium-2023"]
+	path = talks/talk-symposium-2023
+	url = git@github.com:thies/talk-symposium-2023.git
