@@ -5,7 +5,7 @@ title: "Research Projects"
 
 ## Work in Progress
 
-* Leow, K and T. Lindenthal. **“Enhancing Real Estate Investment Trust (REIT) Return Forecasts via Machine Learning”**</a>
+* <a id="reitpredictability">Leow, K and T. Lindenthal. **“Enhancing Real Estate Investment Trust (REIT) Return Forecasts via Machine Learning”**</a>
   - We add to the emerging literature on machine learning empirical asset pricing by analyzing a comprehensive set of return prediction factors on REITs. We find that REIT in vestors experience significant economic gains when using machine learning forecasts. Comparing to the stock market (Gu et al. 2020), we show that REITs are more predictable than stocks, and that the superiority of non-linear machine algorithms is robust to both large and small predictor sets for REITs while stocks tend to suffer from smaller predictor sets. Risk-based signals such as secured debt emerge as the most dominant group of predictive characteristics for REITs, as opposed to price trends for stocks. For macroeconomic predictors, aggregate market variance (a risk-based factor) is the most important time series predictor for REITs, as opposed to aggregate book-to-market ratio (a fundamentals-based signal) for stocks.
 
 * Eichholtz, P.; M. Korevaar and T. Lindenthal. <a class="external-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3418495" target="_self" title=""><span class="external-link">**“Growth and Predictability of Urban Housing Rents”**</span></a>
