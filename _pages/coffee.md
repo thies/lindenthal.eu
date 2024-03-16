@@ -3,6 +3,13 @@ permalink: /coffee/
 title: "Things I like"
 ---
 
+## 2024
+
+<img src="/assets/images/coffeeandveg/2024-larch.jpg">
+
+Larch flowers in Thetford Forest
+
+
 ## 2023
 Tulip mania: Buying 100 bulbs for £6 off eBay was one of my best investments. Spring surprises.
 
