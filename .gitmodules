@@ -49,3 +49,6 @@
 [submodule "talks/talk-predictable-reit-returns-research-club"]
 	path = talks/talk-predictable-reit-returns-research-club
 	url = git@github.com:thies/talk-predictable-reit-returns-research-club.git
+[submodule "talks/talk-applied-ml-in-real-estate-research"]
+	path = talks/talk-applied-ml-in-real-estate-research
+	url = git@github.com:thies/talk-applied-ml-in-real-estate-research.git
