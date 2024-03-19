@@ -14,9 +14,9 @@ This Wednesday (March 20) will be busy: First, I'll head to the University of Re
 
 
 In the evening (6:15—7:15 pm), I will take part in a seminar on generative AI organised by the Society of Property Researchers in London. Full details <a href='https://www.sprweb.com/Public/Public/Events/Event_DisplayMain.aspx?EventKey=80b608cd-ac8c-4ab7-a625-5b18f7eb4d56&iSearchResult=true' class="external-link">here</a>. Pretty excited to share my latest work and to meet new and old
-friends. 
+friends.
 
-** Video of locally hosted LLM**
-<video controls autoplay>
+** Video of locally hosted LLM **
+<video controls autoplay width="100%">
  <source src="https://www.dropbox.com/scl/fi/2bho87p2hjlsroh95y60x/all.webm?rlkey=tswttwd4yecnsaqfz6my6roas&raw=1" type="video/webm">
 </video>
