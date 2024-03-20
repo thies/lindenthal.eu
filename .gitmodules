@@ -43,9 +43,6 @@
 [submodule "talks/talk-symposium-2023"]
 	path = talks/talk-symposium-2023
 	url = git@github.com:thies/talk-symposium-2023.git
-[submodule "talks/talk-predictable-reit-returns"]
-	path = talks/talk-predictable-reit-returns
-	url = git@github.com:thies/talk-predictable-reit-returns.git
 [submodule "talks/talk-predictable-reit-returns-research-club"]
 	path = talks/talk-predictable-reit-returns-research-club
 	url = git@github.com:thies/talk-predictable-reit-returns-research-club.git
