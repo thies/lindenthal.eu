@@ -7,7 +7,7 @@ excerpt: "We add to the emerging literature on machine learning empirical asset 
 ---
 
 <h3><a href="/assets/papers/Leow-Lindenthal-REIT-return-predictability.pdf
-">DOWNLOAD PDF HERE</a><h3>
+">DOWNLOAD PDF HERE</a></h3>
 
 Large Language Models (LLM) forcefully demonstrate the potential of Machine Learning (ML) models in upending the way we work with text, language and documents. Since its launch in 2022, ChatGPT has become synonymous with a wonderfully capable, fast and untiring assistant. The technological revolution powered by ML has started to reshape our world many years earlier, though. In asset pricing, investors and academics apply ML to understand and distinguish between different components of expected returns, such as those due to systemic risk and idiosyncratic risk, as well as potential mispricing.
 
