@@ -1,16 +1,13 @@
 ---
-title: "Finally, a working paper!"
+title: "Working Paper: Enhancing Real Estate Investment Trust (REIT) Return Forecasts via Machine Learning"
 date: 2024-08-12
 header:
   teaser: "/assets/images/teaser/2024-reit-return-predictability.svg"
-excerpt: "We add to the emerging literature on machine learning empirical asset pricing by
-analyzing a comprehensive set of return prediction factors on REITs. We show that ma-
-chine learning models are superior to traditional ordinary least square models and we
-find that REIT investors experience significant economic gains when using machine
-learning forecasts. Comparing to the stock market, we show that REITs are more pre-
-dictable than stocks, and that the higher predictability is stable across time and across
-industry types."
+excerpt: "We add to the emerging literature on machine learning empirical asset pricing by analyzing a comprehensive set of return prediction factors on REITs. We show that machine learning models are superior to traditional ordinary least square models and we find that REIT investors experience significant economic gains when using machine learning forecasts. Comparing to the stock market, we show that REITs are more predictable than stocks, and that the higher predictability is stable across time and across industry types."
 ---
+
+##<a href="assets/papers/Leow-Lindenthal-REIT-return-predictability.pdf
+">DOWNLOAD PDF HERE</a>
 
 Large Language Models (LLM) forcefully demonstrate the potential of Machine Learning (ML) models in upending the way we work with text, language and documents. Since its launch in 2022, ChatGPT has become synonymous with a wonderfully capable, fast and untiring assistant. The technological revolution powered by ML has started to reshape our world many years earlier, though. In asset pricing, investors and academics apply ML to understand and distinguish between different components of expected returns, such as those due to systemic risk and idiosyncratic risk, as well as potential mispricing.
 
