@@ -3,7 +3,7 @@ permalink: /bio/
 title: "Bio"
 ---
 
-Thies Lindenthal is the Grosvenor Professor of Real Estate Finance at the <a href='https://www.landecon.cam.ac.uk'>Department of Land Economy, University of Cambridge</a>, a professorial fellow at <a href='https://www.pem.cam.ac.uk/'>Pembroke College</a>, a fellow at the Cambridge Endowment for Research in Finance, and a <a href='https://www.cshss.cam.ac.uk/research-info/j-m-keynes-fellowship-fund'>JM Keynes Fellow in Financial Economics</a>.
+Thies Lindenthal is the Grosvenor Professor of Real Estate Finance at the <a href='https://www.landecon.cam.ac.uk'>Department of Land Economy, University of Cambridge</a>, a professorial fellow at <a href='https://www.pem.cam.ac.uk/'>Pembroke College</a>, and a <a href='https://www.cshss.cam.ac.uk/research-info/j-m-keynes-fellowship-fund'>JM Keynes Fellow in Financial Economics</a>.
 
 His research interests are twofold: First, he analyzes property investments in the very long-term, tracking rents, prices, and returns for up to 500 years. The second research line focuses on applied machine learning techniques to utilize high-dimensional “Big(ish)” data. Put differently, he uses images and other data that are too complex for spreadsheets to better understand property values, household preferences, and decisions made by very human and not always rational agents.
 
