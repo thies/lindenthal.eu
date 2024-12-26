@@ -5,6 +5,8 @@ title: "Publications"
 
 ### Key Publications
 
+* Kahshin Leow & T. Lindenthal (forthcoming). <a href="http://dx.doi.org/10.2139/ssrn.4923052">“Enhancing Real Estate Investment Trust (REIT) Return Forecasts via Machine Learning”</a>, <em>Real Estate Economics</em>
+
 * Wan, W. and T. Lindenthal (2022). <a href=' https://doi.org/10.1111/1540-6229.12416'>"Testing Machine Learning Systems in Real Estate"</a>. <em>Real Estate Economics</em>.
 
 * Clapp, J. and T. Lindenthal (2022). <a href="https://doi.org/10.1016/j.jhe.2022.101872">"Urban land valuation with bundled good and land residual assumptions"</a>. <em>Journal of Housing Economics</em>.
