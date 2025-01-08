@@ -1,6 +1,7 @@
 ---
 permalink: /coffee/
 title: "Things I like"
+layout: single
 ---
 
 ## 2024

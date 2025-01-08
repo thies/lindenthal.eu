@@ -1,6 +1,8 @@
 ---
 permalink: /bio/
 title: "Bio"
+layout: single
+author: Thies Lindenthal
 ---
 
 Thies Lindenthal is the Grosvenor Professor of Real Estate Finance at the <a href='https://www.landecon.cam.ac.uk'>Department of Land Economy, University of Cambridge</a>, a professorial fellow at <a href='https://www.pem.cam.ac.uk/'>Pembroke College</a>, and a <a href='https://www.cshss.cam.ac.uk/research-info/j-m-keynes-fellowship-fund'>JM Keynes Fellow in Financial Economics</a>.

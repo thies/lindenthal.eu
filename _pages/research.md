@@ -1,6 +1,7 @@
 ---
 permalink: /research/
 title: "Research Projects"
+layout: single
 ---
 
 ## Work in Progress
