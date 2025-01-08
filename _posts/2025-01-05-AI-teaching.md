@@ -5,6 +5,9 @@ header:
     teaser: "/assets/images/teaser/2025-AI.png"
 excerpt: "It's easy to throw out bold ideas on how AI will change the real estate industry for good. But how can we prepare our students for an unknowable future? How can we prepare the next generation of industry leaders and policy makers? Counter-intuitively, the answer isn't just about teaching new technologies. Equally important is it to double down on fundamental humanistic skills while adding critical technical understanding."
 ---
+
+** Note: This is a preview of a piece contributed to the <a href="https://www.culandsoc.com/">Cambridge University Land Society</a> Magazine.**
+
 Love it or loathe it, the explosive growth of AI in the real estate industry will continue in 2025. The transformation isn't just about automating existing processes, it's fundamentally reshaping how we think about, use, develop and invest in physical spaces.
 
 The changing nature of work is driving massive shifts in commercial real estate. While we'll continue to hear calls for 'return to office', the reality is more nuanced. Many roles that have been streamlined or replaced by AI aren't coming back in their traditional form. New ones are emerging. The seismic changes aren't just about remote work and offices—it's about a fundamental restructuring of what spaces we'll need in the future.
