@@ -7,7 +7,7 @@ layout: single
 ## 2025
 
 
-<img src="/assets/images/coffeeandveg/2025-tulips.JPG">
+<img src="/assets/images/2025-tulips.JPG">
 
 ## 2024
 
