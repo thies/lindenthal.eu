@@ -19,7 +19,7 @@ In a study forthcoming in Real Estate Economics, Kahshin Leow and I explore how 
 * Machine Learning Beats Traditional Models
     - Traditional ordinary least squares (OLS) models fail to capture complex interactions in REIT return prediction. Expanding the OLS model with over 800 predictors leads to poor performance, whereas ML models thrive with high-dimensional data.
 * Principal Component Regression (PCR) improves predictability slightly, but advanced ML techniques like LASSO, Elastic Net (ENet), regression trees, and neural networks (NNs) provide much stronger results.
-    - REIT Returns Are More Predictable Than Stocks
+* REIT Returns Are More Predictable Than Stocks
     - Contrary to prior research, REITs exhibit significantly higher predictability than stocks, with ML models achieving up to 12 times greater predictive accuracy.
     - Regression tree models and neural networks perform exceptionally well, with the best-performing neural network (NN1) achieving an out-of-sample R² of 5.01%, compared to 0.40% for the best stock market models.
     - The predictability has faded since ~2015, coinciding with the proliferation of ML models and strategies in the industry. In efficient markets, one would expect an arms race in which investors seek an edge from ever-improving data and algorithms.
