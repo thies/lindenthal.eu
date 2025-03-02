@@ -23,7 +23,7 @@ To do so, I combine theory and data, traditional econometrics and innovative mac
 
 ## Forthcoming and Recently Published Work
 
-* <a href="http://dx.doi.org/10.2139/ssrn.4923052">Leow, K and T. Lindenthal. **“Enhancing Real Estate Investment Trust (REIT) Return Forecasts via Machine Learning”**</a>
+* <a href=" https://doi.org/10.1111/1540-6229.12527">Leow, K and T. Lindenthal (2025). **“Enhancing Real Estate Investment Trust (REIT) Return Forecasts via Machine Learning”**</a>
   - We add to the emerging literature on machine learning empirical asset pricing by analyzing a comprehensive set of return prediction factors on REITs. We find that REIT in vestors experience significant economic gains when using machine learning forecasts. Comparing to the stock market (Gu et al. 2020), we show that REITs are more predictable than stocks, and that the superiority of non-linear machine algorithms is robust to both large and small predictor sets for REITs while stocks tend to suffer from smaller predictor sets. Risk-based signals such as secured debt emerge as the most dominant group of predictive characteristics for REITs, as opposed to price trends for stocks. For macroeconomic predictors, aggregate market variance (a risk-based factor) is the most important time series predictor for REITs, as opposed to aggregate book-to-market ratio (a fundamentals-based signal) for stocks.
 
 
