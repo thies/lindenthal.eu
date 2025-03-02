@@ -1,17 +1,17 @@
 ---
-title: "Forthcoming: Enhancing Real Estate Investment Trust (REIT) Return Forecasts via Machine Learning"
+title: "New Paper: Enhancing Real Estate Investment Trust (REIT) Return Forecasts via Machine Learning"
 date: 2025-02-20
 header:
   teaser: "/assets/images/teaser/2024-reit-return-predictability.svg"
 excerpt: "Paper forthcoming in Real Estate Economics: We add to the emerging literature on machine learning empirical asset pricing by analyzing a comprehensive set of return prediction factors on REITs. We show that machine learning models are superior to traditional ordinary least square models and we find that REIT investors experience significant economic gains when using machine learning forecasts. Comparing to the stock market, we show that REITs are more predictable than stocks, and that the higher predictability is stable across time and across industry types."
 ---
 
-<h3><a href=" https://doi.org/10.1111/1540-6229.12527">DOWNLOAD PDF HERE</a></h3>
+<h3><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/1540-6229.12527">DOWNLOAD PDF HERE</a></h3>
 
 <br>
 
 
-In a study forthcoming in Real Estate Economics, Kahshin Leow and I explore how machine learning (ML) techniques can partially predict the returns of Real Estate Investment Trusts (REITs). Their findings reveal that ML models significantly outperform traditional regression techniques, presenting opportunities for investors seeking better market timing and portfolio allocations.
+In a study recently published in *Real Estate Economics*, Kahshin Leow and I explore how machine learning (ML) techniques can partially predict the returns of Real Estate Investment Trusts (REITs). Their findings reveal that ML models significantly outperform traditional regression techniques, presenting opportunities for investors seeking better market timing and portfolio allocations.
 
 ### Key Findings
 
