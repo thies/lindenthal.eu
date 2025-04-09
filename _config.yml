@@ -191,6 +191,8 @@ exclude:
   - talks
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - talks
+
 keep_files:
   - .git
   - .svn
