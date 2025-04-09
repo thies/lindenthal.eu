@@ -3,7 +3,7 @@
 	url = https://github.com/thies/talk-real-estate-long-term-performance.git
 [submodule "talks/reveal.js"]
 	path = talks/reveal.js
-	url = https://github.com/hakimel/reveal.js.git
+	url = https://github.com/hakimel/reveal.js/
 [submodule "talks/talk-asres-areuea-panel-2021"]
 	path = talks/talk-asres-areuea-panel-2021
 	url = https://github.com/thies/talk-asres-areuea-panel-2021.git
@@ -52,3 +52,6 @@
 [submodule "talks/talk-predictable-reit-returns"]
 	path = talks/talk-predictable-reit-returns
 	url = git@github.com:thies/talk-predictable-reit-returns.git
+[submodule "talks/talk-encumbered-land-value"]
+	path = talks/talk-encumbered-land-value
+	url = https://github.com/thies/talk-encumbered-land-value
