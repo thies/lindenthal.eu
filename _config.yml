@@ -191,11 +191,12 @@ exclude:
   - talks
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
-  - talks
 
 keep_files:
   - .git
   - .svn
+  - /talks/*
+
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
