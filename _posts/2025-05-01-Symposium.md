@@ -31,7 +31,7 @@ Authors should submit their papers electronically to:
 * Changcheng Song, Rick Scarola Associate Professor of Finance, University of Florida,
 * E-mail: Changcheng.song@warrington.ufl.edu
 
-<h3><a href="assets/papers/2025-Symposium-Call-for-Papers.pdf">DOWNLOAD CFP HERE</a></h3>
+<h3><a href="/assets/papers/2025-Symposium-Call-for-Papers.pdf">DOWNLOAD CFP HERE</a></h3>
 
 <br>
 
