@@ -1,0 +1,13 @@
+---
+title: "Old work: Demografische Krimp en Woningsprijzen"
+date: 2025-10-21
+header:
+excerpt: "Piet Eichholtz and I wrote this short piece on the impact of changing demographics on house prices many years back. Some people still ask me for a copy, so I finally scanned and uploaded it."
+---
+
+Piet Eichholtz and I wrote this short piece on the impact of changing demographics on house prices many years back. Some people still ask me for a copy, so I finally scanned and uploaded it: [Demografische Krimp en Woningsprijzen](/assets/papers/eichholtz-lindenthal-demografische-krimp.pdf)
+
+A short extract:
+
+*Voor Nederland als geheel neemt het aantal huishoudens nog steeds trendmatig toe, maar op termijn komt daar een eind aan. Volgens de meest recente projecties zal het aantal huishoudens in Nederland ergens in de jaren dertig stabiliseren, wat betekent dat in een deel van het land nog steeds groei zal plaatsvinden en in andere delen krimp. In die regio's krimpt ook de vraag naar woningen en dat kan grote gevolgen hebben voor de prijzen op lokale woningmarkten. De afgelopen decennia werd de woningmarkt geken-merkt door consistente groei en het Nederlandse beleid was erop gericht om die groei in goede banen te leiden. De komende decennia zal Nederland wat dat betreft een draai moeten maken en gaan nadenken over de vraag hoe het woningmarktbe-leid moet worden aangepast als de groei regionaal omslaat in krimp. Dit is een urgent probleem omdat in Nederland enkele regio's bestaan waar deze krimp nu al gaande is. Zeeuws-Vlaanderen en Groningen worden vaak genoemd, maar Parkstad Limburg is met circa 240.000 inwoners de belangrijkste en meest verstedelijkte regio waar de krimp al is begonnen. Parkstad (een samenwerkingsverband van de gemeenten Heerlen, Kerkrade, Landgraaf, Brunssum, Voerendaal, Simpelveld en Onderbanken) is in bevolkingsomvang de zesde stedelijke regio van Nederland, niet veel kleiner dan de regio Eindhoven. Door de demografische krimp en de verbreding van de hypotheekrenteaftrek naar huishoudens met een woning over de grens maar een inkomen in Nederland neemt de vraag naar woonruimte in Parkstad trendmatig af. De afgelopen jaren is de ontwikkeling in deze Limburgse regio deels gemas-keerd door de doorzettende groei in de Nederlandse woningprijzen, maar als de prijzen in Nederland stoppen met stijgen, zullen ze in Parkstad waar-schijnlijk gaan dalen. Dit alles betekent ten eerste dat er nu voor Parkstad nieuw beleid moet warden gemaakt en ten tweede dat de ontwikkelingen in deze stadsregio belangrijke lessen vormen voor de toekomst van de Nederlandse woningmarkt. De bedoeling van dit artikel is om de effecten van krimp voor lokale woningmarkten in kaart te brengen met behulp van de casus Parkstad...*
+
