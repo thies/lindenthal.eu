@@ -55,3 +55,6 @@
 [submodule "talks/talk-encumbered-land-value"]
 	path = talks/talk-encumbered-land-value
 	url = https://github.com/thies/talk-encumbered-land-value
+[submodule "talks/talk-ml-real-estate-research"]
+	path = talks/talk-ml-real-estate-research
+	url = git@github.com:thies/talk-ml-real-estate-research.git
