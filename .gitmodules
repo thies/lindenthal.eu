@@ -58,3 +58,6 @@
 [submodule "talks/talk-ml-real-estate-research"]
 	path = talks/talk-ml-real-estate-research
 	url = git@github.com:thies/talk-ml-real-estate-research.git
+[submodule "talks/talk-ml-thin-data"]
+	path = talks/talk-ml-thin-data
+	url = git@github.com:thies/talk-ml-thin-data.git

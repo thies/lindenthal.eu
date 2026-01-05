@@ -4,6 +4,10 @@ title: "Publications"
 layout: single
 ---
 
+Commercial Real Estate Analysis for Investment, Finance, and Development
+By David M. Geltner, Norman G. Miller, Alex Van De Minne, Piet Eichholtz, Thies Lindenthal, Lily Shen 
+
+
 ### Key Publications
 
 * Kahshin Leow & T. Lindenthal (2025). <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/1540-6229.12527">“Enhancing Real Estate Investment Trust (REIT) Return Forecasts via Machine Learning”</a>, <em>Real Estate Economics</em>.
