@@ -6,7 +6,7 @@ layout: single
 
 ### Books
 
-* Geltner, D.M., Miller, N.G., Van De Minne, A., Eichholtz, P., Lindenthal, T., & Shen, L. (2026). <a href="https://doi.org/10.1201/9781003643838">Commercial Real Estate Analysis for Investment, Finance, and Development (4th ed.)</a>. Routledge. https://doi.org/10.1201/9781003643838
+* Geltner, D.M., Miller, N.G., Van De Minne, A., Eichholtz, P., Lindenthal, T., & Shen, L. (2026). <a href="https://www.taylorfrancis.com/books/mono/10.1201/9781003643838/">Commercial Real Estate Analysis for Investment, Finance, and Development (4th ed.)</a>. Routledge. 
 
 
 ### Key Publications
