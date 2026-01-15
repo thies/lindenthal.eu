@@ -4,8 +4,9 @@ title: "Publications"
 layout: single
 ---
 
-Commercial Real Estate Analysis for Investment, Finance, and Development
-By David M. Geltner, Norman G. Miller, Alex Van De Minne, Piet Eichholtz, Thies Lindenthal, Lily Shen 
+### Books
+
+* Geltner, D.M., Miller, N.G., Van De Minne, A., Eichholtz, P., Lindenthal, T., & Shen, L. (2026). <a href="https://doi.org/10.1201/9781003643838">Commercial Real Estate Analysis for Investment, Finance, and Development (4th ed.)</a>. Routledge. https://doi.org/10.1201/9781003643838
 
 
 ### Key Publications
