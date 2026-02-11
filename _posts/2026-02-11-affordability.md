@@ -2,7 +2,7 @@
 title: "An Affordability Revolution?"
 date: 2026-02-11
 header:
-    -teaser: "/assets/images/affordability-revolution.png"
+    teaser: "/assets/images/affordability-revolution.png"
 excerpt: "New version of Working paper out: 500 years of rents, wages and housing standards show how housing became cheaper yet less affordable for many. Overall, housing standards have increased a lot, especially for the urban poor. That positive trend comes at a financial cost, though."
 ---
 
