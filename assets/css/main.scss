@@ -3,35 +3,64 @@
 
 @charset "utf-8";
 
-/* Navy & Coral - Professional with warm, modern accents */
+/* Junicode Font - Self-hosted (WOFF format) */
+@font-face {
+  font-family: 'Junicode';
+  src: url('/assets/fonts/junicode/Junicode.woff') format('woff');
+  font-weight: 300 700;
+  font-style: normal;
+  font-display: swap;
+}
 
-/* Set variables BEFORE any imports */
+@font-face {
+  font-family: 'Junicode';
+  src: url('/assets/fonts/junicode/Junicode-Italic.woff') format('woff');
+  font-weight: 300 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Color Scheme: Navy backgrounds with Indigo links */
+
+/* Background and text */
 $background-color: #fefdfb !default;
 $text-color: #1a2744 !default;
 $muted-text-color: #5d6b89 !default;
+
+/* Primary/Structure */
 $primary-color: #2c4875 !default;
-$link-color: #e8866f !default;
-$link-color-hover: #d16f56 !default;
+
+/* Links - Indigo */
+$link-color: #3f51b5 !default;
+$link-color-hover: #303f9f !default;
+
+/* Masthead */
 $masthead-link-color: #1a2744 !default;
 $masthead-link-color-hover: #2c4875 !default;
+
+/* Borders/surfaces */
 $border-color: #e8e4df !default;
 $footer-background-color: #f7f5f2 !default;
 $code-background-color: #f7f5f2 !default;
 
-/* Fonts */
-$serif: "Source Serif 4", Georgia, "Times New Roman", serif !default;
-$sans-serif: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
-$global-font-family: $serif !default;
-$header-font-family: $sans-serif !default;
+/* Navigation */
+$nav-background-color: #fefdfb !default;
+$sidebar-background-color: #f7f5f2 !default;
 
-@import "minimal-mistakes/skins/default"; // import default skin first
-@import "minimal-mistakes"; // then import the theme
+/* Fonts - Using Junicode */
+$serif: "Junicode", Georgia, "Times New Roman", serif !default;
+$sans-serif: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !default;
+$global-font-family: $serif !default;
+$header-font-family: $serif !default;
+
+@import "minimal-mistakes/skins/default";
+@import "minimal-mistakes";
 
 /* Force overrides for stubborn elements */
 .page__content {
   a {
     color: $link-color;
-    
+
     &:hover {
       color: $link-color-hover;
     }
@@ -41,7 +70,7 @@ $header-font-family: $sans-serif !default;
 .masthead__inner-wrap {
   a {
     color: $masthead-link-color;
-    
+
     &:hover {
       color: $masthead-link-color-hover;
     }
