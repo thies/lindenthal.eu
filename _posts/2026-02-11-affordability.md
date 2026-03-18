@@ -17,3 +17,6 @@ This figure plots the real rent index, the real wage index, and the implied “a
 
 Until the early twentieth century, real wages and rents moved broadly together, implying no sustained trend improvement in conventional rent-to-wage affordability. A marked divergence emerges only in the twentieth century: from the 1910s through the postwar decades, wages rose much faster than rents, generating large and persistent gains in rent-to-wage affordability. These gains largely plateaued in the late 20th century, as wage growth slowed and public investments in housing were rolled back, while housing consumption per capita continued to rise.  A natural interpretation of this figure is that affordability improved dramatically in the last century. However, that reading clashes with the dominant contemporary narrative in cities
 around the world. Our paper shows how both can be the case.
+
+
+
