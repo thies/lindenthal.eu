@@ -19,4 +19,3 @@ Until the early twentieth century, real wages and rents moved broadly together, 
 around the world. Our paper shows how both can be the case.
 
 
-
