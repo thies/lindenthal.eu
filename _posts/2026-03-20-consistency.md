@@ -20,5 +20,4 @@ If work becomes less tied to location, that constraint begins to dissolve, and w
 
 What unsettles me is not the specific oversimplification itself, but what it reveals about the argument as a whole, because if the part I understand does not hold up particularly well, it becomes difficult to assume that the parts I do not understand are any more robust.
 
-Coherence, after all, is not the same as depth, and sometimes it only reflects the fact that I did not know enough to see where it might come apart.
 
