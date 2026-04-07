@@ -1,5 +1,5 @@
 ---
-title: "Updating plausability"
+title: "Updating plausibility"
 date: 2026-03-20
 excerpt: "Spoiler alert. A Friday afternoon rant."
 ---
