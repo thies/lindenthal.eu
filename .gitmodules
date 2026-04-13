@@ -61,3 +61,6 @@
 [submodule "talks/talk-ml-thin-data"]
 	path = talks/talk-ml-thin-data
 	url = git@github.com:thies/talk-ml-thin-data.git
+[submodule "talks/talk-ai-re-research"]
+	path = talks/talk-ai-re-research
+	url = git@github.com:thies/talk-ai-re-research.git
