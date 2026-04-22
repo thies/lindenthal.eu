@@ -14,8 +14,7 @@ AI is everywhere in academic research. Kobak et al. (2025, *Science Advances*) t
 
 That is the writing layer in the research process. The more consequential shift is deeper. A growing number of papers rely on AI not for drafting but for execution — work that could not exist without machine learning carrying out the core analysis. [Bartik, Gupta and Milo (2025)](https://doi.org/10.1257/jep.20241428) read thousands of municipal zoning codes and built regulation measures that no research team could produce by hand. [Calainho, van de Minne and Francke (2024)](https://doi.org/10.1111/1540-6229.12494) replaced linear hedonic models with ML on 30,000 New York transactions and showed systematic gains in out-of-sample accuracy. [Shen and Ross (2021)](https://doi.org/10.1016/j.jue.2020.103299) extracted a description-quality measure from MLS listing text that captures soft information about property quality invisible to structured data. [Leow and Lindenthal (2025)](https://doi.org/10.1111/1540-6229.12527) applied the Gu-Kelly-Xiu ML asset-pricing framework to REIT factor returns and showed substantial forecast improvements over OLS.
 
-In each case, AI enables a measurement or prediction the research requires. Remove it and the paper disappears. But the role is still that of a skilled research assistant: executing tasks specified by a human. The PI — the person deciding what to study and why — remains human.
-
+In each case, AI enables a measurement or prediction the research requires. Remove it and the paper disappears. But the role is still that of a skilled research assistant (RA): executing tasks specified by a human. The principal investigator (PI) — the person deciding what to study and why — remains human.
 
 <div style="max-width:600px; margin: 2em auto;">
   <p style="text-align:center; font-size:0.85em; color:#555; margin-bottom:0.4em;">Core research competencies: AI vs human (self-assessment)</p>
