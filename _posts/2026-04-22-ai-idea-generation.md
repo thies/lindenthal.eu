@@ -16,7 +16,6 @@ That is the writing layer in the research process. The more consequential shift 
 
 In each case, AI enables a measurement or prediction the research requires. Remove it and the paper disappears. But the role is still that of a skilled research assistant: executing tasks specified by a human. The PI — the person deciding what to study and why — remains human.
 
-**Which raises the obvious question.**
 
 <div style="max-width:600px; margin: 2em auto;">
   <p style="text-align:center; font-size:0.85em; color:#555; margin-bottom:0.4em;">Core research competencies: AI vs human (self-assessment)</p>
@@ -73,7 +72,7 @@ In each case, AI enables a measurement or prediction the research requires. Remo
 })();
 </script>
 
-AI outperforms on execution. The question is whether it can shine higher up the value chain. Can LLMs suggest research topics that are genuinely innovative and plausibly doable — functioning more as a PI than as an RA?
+AI outperforms human researcher in many dimension (speaking for myself, obviously). The question is whether it can shine higher up the value chain. Can LLMs suggest research topics that are genuinely innovative and plausibly doable — functioning more as a PI than as an RA? Do humans still have a competitive edge?
 
 The new working paper tests this. I mapped the full published corpus of *Real Estate Economics* (1,676 articles, 1973–2026) and real-estate-relevant subsets of JREFE, JUE, AER, JF, and RFS into a shared semantic embedding space. The result is a coordinate system for the field — not a literature review, but a map. Against that map, I generated 1,499 research ideas under eight conditions, varying what context the model received: nothing, the full corpus, individual cluster seeds, methods borrowed from economics and finance, methods from psychology. Each idea was scored on atypicality (a measure of unusual knowledge combination that retroactively predicts citations) and mapped back into the research space.
 
