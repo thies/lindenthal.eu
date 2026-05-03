@@ -26,7 +26,7 @@ $header-font-family: $sans-serif !default;
 $monospace: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace !default;
 
 /* Typography scale — matching distill.pub */
-$doc-font-size: 16px !default;
+$doc-font-size: 18px !default;
 
 $h-size-1: 2.0em !default;
 $h-size-2: 1.5em !default;
@@ -140,4 +140,10 @@ code, pre {
 hr {
   border-top: 1px solid $border-color;
   margin-block: 2.5em;
+}
+
+/* Landing page: post titles are navigation, not body links — no underline */
+.archive__item-title a {
+  text-decoration: none;
+  border-bottom: none;
 }

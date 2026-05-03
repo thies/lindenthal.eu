@@ -33,7 +33,10 @@ All publications can be found <a href="/publications/">here</a>.
 
 ## Work in Progress
 
-* Leow, K. and T. Lindenthal. <a href='/assets/papers/Conference-paper-Machine-Learning-and-Missing-Data-in-Real-Estate.pdf'>**“Machine Learning and Missing Data in Real Estate”**</a>
+* Lindenthal, T. <a href='/assets/papers/WP-AI-idea-generation.pdf'>**”Can AI be a PI? Mapping Real Estate Research and Testing AI Idea Generation”**</a>
+  - I map the published corpus of real estate research into a shared semantic embedding space and use it as a coordinate system to evaluate 1,499 LLM-generated research ideas across eight prompting conditions. Ideas are scored on atypicality — a measure of unusual knowledge combination that retroactively predicts citations. Methodological scaffolding (drawing on economics and finance paradigms) produces ideas that score comparably to the median published paper; topical scaffolding alone does not.
+
+* Leow, K. and T. Lindenthal. <a href='/assets/papers/Conference-paper-Machine-Learning-and-Missing-Data-in-Real-Estate.pdf'>**”Machine Learning and Missing Data in Real Estate”**</a>
   - NEW WORKING PAPER, FEEDBACK MUCH APPRECIATED. Real estate research tends to be plagued by missing data. We show that prediction accuracy can increase by incorporating observations with missing predictors in the case of commercial real estate. We also show that missing data may not be occurring at random, which makes it more important to incorporate all observations into a prediction model, be it complete or not. Finally, we show that when one incorporates missing data into training sets, prediction outcomes can go into opposite direction
 
  
