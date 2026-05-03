@@ -3,110 +3,75 @@
 
 @charset "utf-8";
 
-/* Junicode Font - Self-hosted (WOFF format) */
-@font-face {
-  font-family: 'Junicode';
-  src: url('/assets/fonts/junicode/Junicode.woff') format('woff');
-  font-weight: 300 700;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Junicode';
-  src: url('/assets/fonts/junicode/Junicode-Italic.woff') format('woff');
-  font-weight: 300 700;
-  font-style: italic;
-  font-display: swap;
-}
-
-/* Color Scheme: Navy backgrounds with Indigo links */
-
-/* Background and text */
+/* Color Scheme */
 $background-color: #ffffff !default;
 $text-color: #1a2744 !default;
 $muted-text-color: #5d6b89 !default;
-
-/* Primary/Structure */
 $primary-color: #2c4875 !default;
-
-/* Links - Indigo */
-$link-color: #3f51b5 !default;
-$link-color-hover: #303f9f !default;
-
-/* Masthead */
+$link-color: #004276 !default;
+$link-color-hover: #00284a !default;
 $masthead-link-color: #1a2744 !default;
 $masthead-link-color-hover: #2c4875 !default;
-
-/* Borders/surfaces */
 $border-color: #e8e4df !default;
 $footer-background-color: #f7f5f2 !default;
 $code-background-color: #f7f5f2 !default;
-
-/* Navigation */
 $nav-background-color: #fefdfb !default;
 $sidebar-background-color: #f7f5f2 !default;
 
-/* Fonts - Using Junicode */
-$serif: "Junicode", Georgia, "Times New Roman", serif !default;
-$sans-serif: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !default;
+/* Fonts — distill.pub system font stack, no custom web fonts */
+$sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif !default;
+$serif: Georgia, "Times New Roman", serif !default;
 $global-font-family: $sans-serif !default;
-$header-font-family: $serif !default;
+$header-font-family: $sans-serif !default;
+$monospace: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace !default;
 
-/* Typography scale — distill.pub style */
-$doc-font-size: 18px !default;
+/* Typography scale — matching distill.pub */
+$doc-font-size: 16px !default;
 
-/* Heading scale: clear hierarchy, not too large */
-$h-size-1: 1.6em !default;
-$h-size-2: 1.3em !default;
-$h-size-3: 1.1em !default;
+$h-size-1: 2.0em !default;
+$h-size-2: 1.5em !default;
+$h-size-3: 1.17em !default;
 $h-size-4: 1.0em !default;
-$h-size-5: 0.95em !default;
-$h-size-6: 0.9em !default;
+$h-size-5: 0.9em !default;
+$h-size-6: 0.85em !default;
 
 @import "minimal-mistakes/skins/default";
 @import "minimal-mistakes";
 
 /* -------------------------------------------------------
-   Distill.pub typography overrides
+   distill.pub typography overrides
    ------------------------------------------------------- */
 
-/* Body: generous line-height, comfortable reading */
 body {
   font-size: $doc-font-size;
-  line-height: 1.75;
+  line-height: 1.6em;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* Paragraphs: more breathing room */
 p {
-  margin-bottom: 1.5em;
-  hyphens: auto;
+  margin-bottom: 1.4em;
 }
 
-/* Headings: track slightly, weight contrast */
 h1, h2, h3, h4, h5, h6 {
+  font-family: $sans-serif;
   font-weight: 700;
-  letter-spacing: -0.01em;
-  line-height: 1.25;
-  margin-top: 2.5em;
-  margin-bottom: 0.75em;
+  line-height: 1.25em;
+  margin-top: 2em;
+  margin-bottom: 0.5em;
 }
 
 h1 { font-size: $h-size-1; margin-top: 0; }
-h2 { font-size: $h-size-2; border-bottom: 1px solid $border-color; padding-bottom: 0.3em; }
+h2 { font-size: $h-size-2; }
 h3 { font-size: $h-size-3; }
 
-/* Narrow the content column for comfortable measure (~70 chars) */
 .page__content {
-  font-size: 1em;
   max-width: 720px;
 
   a {
     color: $link-color;
     text-decoration: none;
-    border-bottom: 1px solid rgba($link-color, 0.35);
+    border-bottom: 1px solid rgba($link-color, 0.3);
     transition: border-color 0.15s ease;
 
     &:hover {
@@ -118,9 +83,17 @@ h3 { font-size: $h-size-3; }
       color: $link-color;
     }
   }
+
+  ul, ol {
+    padding-inline-start: 1.5em;
+
+    li {
+      margin-bottom: 0.3em;
+      line-height: 1.6em;
+    }
+  }
 }
 
-/* Blockquote: distill-style subtle left rule */
 blockquote {
   font-style: normal;
   font-size: 0.95em;
@@ -130,30 +103,25 @@ blockquote {
   margin-block: 2em;
 }
 
-/* Figures: centered, with caption styling */
 figure {
-  margin-block: 2.5em;
+  margin-block: 2em;
 
   figcaption {
-    font-size: 0.82em;
-    line-height: 1.5;
+    font-size: 13px;
+    line-height: 1.5em;
     color: $muted-text-color;
     text-align: center;
-    margin-top: 0.6em;
+    margin-top: 0.5em;
   }
 }
 
-/* Code: slightly smaller, clean */
 code, pre {
-  font-size: 0.85em;
-  line-height: 1.6;
+  font-family: $monospace;
+  font-size: 14px;
+  line-height: 1.6em;
 }
 
-/* Masthead: clean, minimal */
 .masthead__inner-wrap {
-  font-size: 0.9em;
-  letter-spacing: 0.01em;
-
   a {
     color: $masthead-link-color;
     border-bottom: none;
@@ -164,26 +132,12 @@ code, pre {
   }
 }
 
-/* Sidebar author: tighter, cleaner */
 .author__bio {
-  font-size: 0.85em;
-  line-height: 1.6;
+  font-size: 0.875em;
+  line-height: 1.6em;
 }
 
-/* Lists: slightly more spaced */
-.page__content {
-  ul, ol {
-    padding-inline-start: 1.5em;
-
-    li {
-      margin-bottom: 0.4em;
-      line-height: 1.7;
-    }
-  }
-}
-
-/* HR: subtle */
 hr {
   border-top: 1px solid $border-color;
-  margin-block: 3em;
+  margin-block: 2.5em;
 }
