@@ -1,8 +1,7 @@
 ---
-
 permalink: /bio/
 title: "Bio"
-------------
+---
 
 *Real estate finance researcher using AI, machine learning, computer vision, and long-run data to study property markets*
 
