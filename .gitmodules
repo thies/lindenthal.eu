@@ -64,3 +64,6 @@
 [submodule "talks/talk-ai-re-research"]
 	path = talks/talk-ai-re-research
 	url = git@github.com:thies/talk-ai-re-research.git
+[submodule "talks/talk-affordability-revolution"]
+	path = talks/talk-affordability-revolution
+	url = git@github.com:thies/talk-affordability-revolution.git
