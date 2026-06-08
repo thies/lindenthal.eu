@@ -67,3 +67,6 @@
 [submodule "talks/talk-affordability-revolution"]
 	path = talks/talk-affordability-revolution
 	url = git@github.com:thies/talk-affordability-revolution.git
+[submodule "talks/talk-tokyo-2026"]
+	path = talks/talk-tokyo-2026
+	url = git@github.com:thies/talk-tokyo-2026.git
