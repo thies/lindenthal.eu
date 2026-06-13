@@ -4,6 +4,8 @@ title: "Careless People, Careless AI"
 date: 2026-06-12
 categories: [blog]
 tags: [AI, ethics, Meta, tech culture]
+header:
+  teaser: "/assets/images/teaser/careless-people.jpg"
 ---
 
 > They were careless people, Tom and Daisy — they smashed up things and creatures and then retreated back into their money or their vast carelessness, and let other people clean up the mess they had made.
