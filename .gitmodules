@@ -73,3 +73,6 @@
 [submodule "talks/talk-bio"]
 	path = talks/talk-bio
 	url = git@github.com:thies/talk-bio.git
+[submodule "talks/talk-ai-education"]
+	path = talks/talk-ai-education
+	url = git@github.com:thies/talk-ai-education.git
