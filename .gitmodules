@@ -82,3 +82,6 @@
 [submodule "talks/data-figures-public"]
 	path = talks/data-figures-public
 	url = git@github.com:thies/data-figures-public.git
+[submodule "talks/talk-rem1-session2"]
+	path = talks/talk-rem1-session2
+	url = git@github.com:thies/talk-rem1-session2.git
