@@ -88,3 +88,6 @@
 [submodule "talks/talk-rem1-session3"]
 	path = talks/talk-rem1-session3
 	url = git@github.com:thies/talk-rem1-session3.git
+[submodule "talks/talk-rem1-session4"]
+	path = talks/talk-rem1-session4
+	url = git@github.com:thies/talk-rem1-session4.git
