@@ -94,3 +94,7 @@
 [submodule "talks/talk-rem1-session5"]
 	path = talks/talk-rem1-session5
 	url = git@github.com:thies/talk-rem1-session5.git
+[submodule "talks/talk-p4-l1-overview"]
+	path = talks/talk-p4-l1-overview
+	url = https://github.com/thies/talk-p4-l1-overview.git
+	branch = refresh-2026-27
