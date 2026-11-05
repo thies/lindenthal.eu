@@ -98,3 +98,6 @@
 	path = talks/talk-p4-l1-overview
 	url = https://github.com/thies/talk-p4-l1-overview.git
 	branch = refresh-2026-27
+[submodule "talks/talk-re02-l5-metrics-and-indices"]
+	path = talks/talk-re02-l5-metrics-and-indices
+	url = git@github.com:thies/talk-re02-l5-metrics-and-indices.git
