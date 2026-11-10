@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Option Values: Samuelson-McKean approach"
+title: "Option Value: Samuelson-McKean approach"
 date: 2026-11-10
 categories: [teaching]
 tags: [real options, land value, valuation, teaching]
