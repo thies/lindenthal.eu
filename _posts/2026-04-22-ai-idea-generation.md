@@ -92,4 +92,4 @@ Methodological scaffolding moves ideas outward into less-explored territory. Top
 
 There is an uncomfortable regularity in how AI gets adopted: if a system offers a plausible-looking shortcut for a task it was never designed for, people will happily use it anyway, and it takes a lot of effort to convince them of the limits. Researchers will use LLMs to generate research ideas. They already do. The useful question is not whether this is a misguided idea but what the machines actually serve them when they try — and under what conditions the output is worth anything. That is what this paper is about.
 
-[**Working paper (PDF)**](/assets/papers/WP-AI-idea-generation.pdf) — [**Interactive idea explorer**](https://thies.github.io/idea-explorer/)
+[**Interactive idea explorer**](https://thies.github.io/idea-explorer/)

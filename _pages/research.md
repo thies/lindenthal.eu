@@ -21,22 +21,26 @@ In my research, I strive for more realistic estimates of real estate’s risks a
 To do so, I combine theory and data, traditional econometrics and innovative machine learning techniques, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3418495">dusty archives</a> and <a href="http://onlinelibrary.wiley.com/doi/10.1111/1540-6229.12204/abstract">big data sensors</a>. I <a href="https://doi.org/10.1111/1540-6229.12416'">explore applied machine learning techniques</a> to utilise high-dimensional and often “Big(ish)” data. Put differently, I <a href="https://link.springer.com/article/10.1007/s11146-021-09845-1">use images</a> and <a href="http://www.sciencedirect.com/science/article/pii/B9780124095489096822">other data that are too complex for spreadsheets</a> to better understand property values, <a href="http://dx.doi.org/10.2139/ssrn.4923052">fund returns</a>, <a href="http://www.sciencedirect.com/science/article/pii/S1051137714000321">household preferences</a> and decisions made by very human and not always rational agents.
 
 
-## Forthcoming and Recently Published Work
-
-* <a href=" https://doi.org/10.1111/1540-6229.12527">Leow, K and T. Lindenthal (2025). **“Enhancing Real Estate Investment Trust (REIT) Return Forecasts via Machine Learning”**</a>
-  - We add to the emerging literature on machine learning empirical asset pricing by analyzing a comprehensive set of return prediction factors on REITs. We find that REIT in vestors experience significant economic gains when using machine learning forecasts. Comparing to the stock market (Gu et al. 2020), we show that REITs are more predictable than stocks, and that the superiority of non-linear machine algorithms is robust to both large and small predictor sets for REITs while stocks tend to suffer from smaller predictor sets. Risk-based signals such as secured debt emerge as the most dominant group of predictive characteristics for REITs, as opposed to price trends for stocks. For macroeconomic predictors, aggregate market variance (a risk-based factor) is the most important time series predictor for REITs, as opposed to aggregate book-to-market ratio (a fundamentals-based signal) for stocks.
-
-
 ## All Published work
 
 All publications can be found <a href="/publications/">here</a>.
 
 ## Work in Progress
 
-* Lindenthal, T. <a href='/assets/papers/WP-AI-idea-generation.pdf'>**”Can AI be a PI? Mapping Real Estate Research and Testing AI Idea Generation”**</a>
-  - I map the published corpus of real estate research into a shared semantic embedding space and use it as a coordinate system to evaluate 1,499 LLM-generated research ideas across eight prompting conditions. Ideas are scored on atypicality — a measure of unusual knowledge combination that retroactively predicts citations. Methodological scaffolding (drawing on economics and finance paradigms) produces ideas that score comparably to the median published paper; topical scaffolding alone does not.
+### Technology and Real Estate
 
-* Leow, K. and T. Lindenthal. <a href='/assets/papers/Conference-paper-Machine-Learning-and-Missing-Data-in-Real-Estate.pdf'>**”Machine Learning and Missing Data in Real Estate”**</a>
+* Lindenthal, T.; Kalikman, P. and D. Ruf. **"How AI Shapes the Research Agenda in Real Estate Finance and Economics"**
+  - Large language models carry their own view of what a field is, and that view does not fully match what the field's literature contains. We map the published record of real estate finance and economics into a semantic embedding space and evaluate 3,200 AI-generated research proposals across eight prompting conditions. On atypicality, a measure of cross-community recombination, AI proposals are comparable to published work. Without corpus context, however, they cluster around a narrow set of topics (natural-disaster and climate risk, rent control, property tax, mortgage lending discrimination), while mortgage finance and institutional real estate barely register. The same pull shows up in the references the model reaches for. Supplying the published corpus widens the spread but does not straightforwardly fix it.
+
+* Lindenthal, T. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7569478">**"Real Estate Derivatives at Last? Prediction Markets as Forecasts, Not Hedges"**</a>
+  - LIVING PAPER, UPDATED QUARTERLY AT <a href="https://living.pub">LIVING.PUB</a>. Exchanges have listed derivatives on property prices since 1991, and none has become liquid. Event contracts on prediction markets are the latest attempt. Using all real estate contracts listed on Kalshi and the house price contracts on Polymarket, I ask whether they remove the obstacles that stopped earlier property derivatives. They do not. The contracts are quoted as tightly and priced as accurately as other economics contracts, so they work as forecasts, but they barely trade and they do not transfer risk. Repeat sales from Cook County show that an index hedge removes almost none of an owner's price risk over short holding periods, no contract runs long enough to matter, and the order books are too thin to hedge even a single home.
+
+* Lindenthal, T. **"Social Class, Ethnicity and Migration Status in AI Housing Advice in the United Kingdom"**
+  - EARLY DRAFT. People increasingly ask large language models where to live and whether to buy or rent. An adviser that sends otherwise identical customers to different neighbourhoods because of who they are practises steering. I audit LLM housing advice in Birmingham, Manchester and London, signalling class of origin, ethnicity and migration status through synthetic CVs while holding finances and housing needs fixed. Outcomes are the deprivation of the recommended neighbourhoods and the advice to rent or to buy. Because models often recognise bias audits as tests, and tests prompt more even-handed answers, I also measure how often they do so and use this to interpret the results.
+
+### Other Projects
+
+* Leow, K. and T. Lindenthal. <a href='/assets/papers/Leow-Lindenthal-Leveraging-Missing-Data-in-Commercial-Real-Estate.pdf'>**”Machine Learning and Missing Data in Real Estate”**</a>
   - NEW WORKING PAPER, FEEDBACK MUCH APPRECIATED. Real estate research tends to be plagued by missing data. We show that prediction accuracy can increase by incorporating observations with missing predictors in the case of commercial real estate. We also show that missing data may not be occurring at random, which makes it more important to incorporate all observations into a prediction model, be it complete or not. Finally, we show that when one incorporates missing data into training sets, prediction outcomes can go into opposite direction
 
  
