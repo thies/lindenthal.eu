@@ -6,9 +6,10 @@ categories: [research]
 tags: [AI, real estate, working paper, idea generation, LLM]
 header:
   teaser: /assets/images/umap_fig1b.png
+last_modified_at: 2026-11-23
 ---
 
-*Under active development — findings and figures may change.*
+*Updated 23 November 2026. The paper, now with Philip Kalikman and Daniel Ruf, has a larger idea set, more journals and a cross-model check, and some of the earlier conclusions have changed. The original April version of this post described 1,499 ideas and an atypicality score that predicted citations; that result did not survive.*
 
 AI is everywhere in academic research. Kobak et al. (2025, *Science Advances*) tracked words that language models overuse — "delve," "nuanced," "meticulous" — across 14 million biomedical abstracts and found at least 13.5% of 2024 papers were processed by an LLM. The same pattern shows up in the real estate literature, as a [quick replication on 100K real estate papers indexed by OpenAlex](https://www.lindenthal.eu/talks/talk-ai-re-research/#/2) shows.
 
@@ -22,6 +23,7 @@ In each case, AI enables a measurement or prediction the research requires. Remo
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
+
 <script>
 (function() {
   var ctx = document.getElementById('radar-chart');
@@ -71,25 +73,29 @@ In each case, AI enables a measurement or prediction the research requires. Remo
 })();
 </script>
 
-AI outperforms human researcher in many dimension (speaking for myself, obviously). The question is whether it can shine higher up the value chain. Can LLMs suggest research topics that are genuinely innovative and plausibly doable — functioning more as a PI than as an RA? Do humans still have a competitive edge?
+AI outperforms human researcher in many dimensions (speaking for myself, obviously). The question is whether it can shine higher up the value chain. Can LLMs suggest research topics that are genuinely innovative and plausibly doable — functioning more as a PI than as an RA? Do humans still have a competitive edge?
 
-The new working paper tests this. I mapped the full published corpus of *Real Estate Economics* (1,676 articles, 1973–2026) and real-estate-relevant subsets of JREFE, JUE, AER, JF, and RFS into a shared semantic embedding space. The result is a coordinate system for the field — not a literature review, but a map. Against that map, I generated 1,499 research ideas under eight conditions, varying what context the model received: nothing, the full corpus, individual cluster seeds, methods borrowed from economics and finance, methods from psychology. Each idea was scored on atypicality (a measure of unusual knowledge combination that retroactively predicts citations) and mapped back into the research space.
+The working paper, now titled *"How AI Shapes the Research Agenda in Real Estate Finance and Economics"*, tests this. We mapped the published record of *Real Estate Economics*, the *Journal of Real Estate Finance and Economics* and the *Journal of Real Estate Research*, along with real-estate-relevant papers from the *Journal of Urban Economics* and selected economics, finance and psychology papers, into a shared semantic embedding space. An LLM extracts each paper's research question, method and data, and these are embedded and clustered into research strands. The result is a coordinate system for the field: not a literature review, but a map.
 
-The figure below shows where generated ideas land. Grey dots are the full corpus; blue dots are REE papers; red dots are AI-generated ideas. Condition A is naïve generation from training data alone. Condition F draws on methods and paradigms from economics and finance journals.
+Against that map, we generated 3,200 research proposals under eight conditions, each run eight times with no memory of the other runs. The conditions vary the context the model receives: nothing at all, a topic list, the full REE corpus with and without that list, or methods and paradigms to transfer from economics and finance or from psychology. Each condition also runs in a version where the model must confirm that the data it needs actually exists.
+
+The figure below shows where the proposals land. Red dots are AI proposals; the background is the published corpus. On the left is naïve generation, with no context at all. On the right is method transfer from economics and finance.
 
 <div style="display:flex; gap:1.5em; flex-wrap:wrap; justify-content:center; margin: 2em 0;">
   <figure style="margin:0; text-align:center; max-width:340px;">
-    <img src="/assets/images/ideas_umap_a_unconstrained.png" alt="Naïve generation (Condition A)" style="width:100%; border:1px solid #eee;">
+    <img src="/assets/images/ideas_umap_a_bare_unconstrained.png" alt="Naïve generation, no context (Condition A bare)" style="width:100%; border:1px solid #eee;">
     <figcaption style="font-size:0.8em; color:#555; margin-top:0.4em;">A: Naïve — no context provided</figcaption>
   </figure>
   <figure style="margin:0; text-align:center; max-width:340px;">
-    <img src="/assets/images/ideas_umap_e_econ_unconstrained.png" alt="Econ/finance paradigm transfer (Condition F)" style="width:100%; border:1px solid #eee;">
-    <figcaption style="font-size:0.8em; color:#555; margin-top:0.4em;">F: Paradigm transfer from economics &amp; finance</figcaption>
+    <img src="/assets/images/ideas_umap_c_unconstrained.png" alt="Method transfer from economics and finance (Condition C)" style="width:100%; border:1px solid #eee;">
+    <figcaption style="font-size:0.8em; color:#555; margin-top:0.4em;">C: Method transfer from economics &amp; finance</figcaption>
   </figure>
 </div>
 
-Methodological scaffolding moves ideas outward into less-explored territory. Topical scaffolding alone does not. The best ideas — particularly those generated through method transfer from economics and finance — score comparably to the median published paper on the citation-predictive criterion. Some land squarely on papers published twenty years ago, having rediscovered questions the field already answered. But that is also true of human research proposals.
+On atypicality, a measure of how unusually a paper combines strands of the literature, the best proposals match published REE papers. Proposals that transfer methods from economics and finance score highest, and naïve generation scores lowest. A few are combinations that, as far as we can tell, nobody has tried. Some rediscover questions the field answered twenty years ago, but so do human proposals. The caveat is that atypicality turns out not to predict citations in the published corpus: venue and topic do. It is measurable but unvalidated. Six real estate economists are now rating a blind sample of proposals mixed with published papers.
 
-There is an uncomfortable regularity in how AI gets adopted: if a system offers a plausible-looking shortcut for a task it was never designed for, people will happily use it anyway, and it takes a lot of effort to convince them of the limits. Researchers will use LLMs to generate research ideas. They already do. The useful question is not whether this is a misguided idea but what the machines actually serve them when they try — and under what conditions the output is worth anything. That is what this paper is about.
+The more interesting finding concerns where the proposals go. Without corpus context, the model's idea of real estate economics gravitates toward natural-disaster and climate risk, rent control, property tax and mortgage lending discrimination, while mortgage finance, capital markets and institutional real estate barely register. This is not just one model: GPT-5 and Gemini 3.1 Pro lead with the same two topics in the same order. Supplying the published corpus widens the spread, but it redirects the model only when nothing else in the prompt anchors the output. Every condition is more concentrated than the field itself.
 
-[**Interactive idea explorer**](https://thies.github.io/idea-explorer/)
+The same pull shows up in citations. Asked which papers it would cite for its own proposals, the model reaches for a small canon from general-interest economics and finance journals. *Real Estate Economics* ranks ninth among the journals it names, even though every proposal is a real estate question.
+
+A built-in prior is not harmful in itself, and the clusters the model favours have been gaining citations for a decade, so the models may be inheriting an emphasis the field built on its own. But scientific attention is path dependent. If a growing share of ideation and literature review runs through these systems, a small, undirected bias could compound. It would not be a revolution in how science is done but a slow, gravitational pull on what gets proposed, cited and published. Over time, this will steer the literature into fewer "popular/lucrative/promising" topics and reduce the diversity in research directions. **Like it or loathe it, AI systems shape our collective research.**
