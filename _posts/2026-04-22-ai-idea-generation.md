@@ -5,7 +5,7 @@ date: 2026-04-22
 categories: [research]
 tags: [AI, real estate, working paper, idea generation, LLM]
 header:
-  teaser: /assets/images/umap_fig1b.png
+  teaser: /assets/images/ai-pi-radar.png
 last_modified_at: 2026-11-23
 ---
 
@@ -90,6 +90,7 @@ The figure below shows where the proposals land. Red dots are AI proposals; the 
     <img src="/assets/images/ideas_umap_c_unconstrained.png" alt="Method transfer from economics and finance (Condition C)" style="width:100%; border:1px solid #eee;">
     <figcaption style="font-size:0.8em; color:#555; margin-top:0.4em;">C: Method transfer from economics &amp; finance</figcaption>
   </figure>
+  <img src="/assets/images/ideas_umap_legend.png" alt="Legend: blue = RE corpus (REE, JREFE, JRER); yellow = Urban Economics (JUE); purple = Econ./Finance (AER, JF, RFS); red = generated ideas" style="width:100%; max-width:700px; margin-top:0.5em;">
 </div>
 
 On atypicality, a measure of how unusually a paper combines strands of the literature, the best proposals match published REE papers. Proposals that transfer methods from economics and finance score highest, and naïve generation scores lowest. A few are combinations that, as far as we can tell, nobody has tried. Some rediscover questions the field answered twenty years ago, but so do human proposals. The caveat is that atypicality turns out not to predict citations in the published corpus: venue and topic do. It is measurable but unvalidated. Six real estate economists are now rating a blind sample of proposals mixed with published papers.
@@ -97,5 +98,10 @@ On atypicality, a measure of how unusually a paper combines strands of the liter
 The more interesting finding concerns where the proposals go. Without corpus context, the model's idea of real estate economics gravitates toward natural-disaster and climate risk, rent control, property tax and mortgage lending discrimination, while mortgage finance, capital markets and institutional real estate barely register. This is not just one model: GPT-5 and Gemini 3.1 Pro lead with the same two topics in the same order. Supplying the published corpus widens the spread, but it redirects the model only when nothing else in the prompt anchors the output. Every condition is more concentrated than the field itself.
 
 The same pull shows up in citations. Asked which papers it would cite for its own proposals, the model reaches for a small canon from general-interest economics and finance journals. *Real Estate Economics* ranks ninth among the journals it names, even though every proposal is a real estate question.
+
+<figure style="margin:2em auto; text-align:center; max-width:600px;">
+  <img src="/assets/images/condA_citations_map.png" alt="Papers the model recalls as citations for its naïve proposals, placed in the research space" style="width:100%; border:1px solid #eee;">
+  <figcaption style="font-size:0.8em; color:#555; margin-top:0.4em;">Papers the model would cite for its 200 naïve proposals (red), placed on the same map. Dot size shows how many proposals name the paper.</figcaption>
+</figure>
 
 A built-in prior is not harmful in itself, and the clusters the model favours have been gaining citations for a decade, so the models may be inheriting an emphasis the field built on its own. But scientific attention is path dependent. If a growing share of ideation and literature review runs through these systems, a small, undirected bias could compound. It would not be a revolution in how science is done but a slow, gravitational pull on what gets proposed, cited and published. Over time, this will steer the literature into fewer "popular/lucrative/promising" topics and reduce the diversity in research directions. **Like it or loathe it, AI systems shape our collective research.**
